@@ -8,3 +8,9 @@ This circuit is used in street light, as we already knows that in day time the s
 and as the day light dims in the evening the light automatically turned on. This is the in which when torch comes close to LDR then LED will not glow,
 and when the torch goes far to LDR the LED start glowing.
 The process of torch coming near to LDR and then going back can be realated to the day and night time.
+ 
+   Light OFF State
+       ![image](https://user-images.githubusercontent.com/60343675/137852155-d251647f-3bff-47bb-9ece-bf19d7d8d3d3.png)
+   
+   Light ON State
+     

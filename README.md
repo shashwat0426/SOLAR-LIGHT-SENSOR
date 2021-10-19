@@ -5,7 +5,7 @@
  
  ABOUT THE CRKT:- 
 This circuit is used in street light, as we already knows that in day time the street light is automatically off 
-and as the day light dims in the evening the light automatically turned on. This happens because when torch comes close to LDR (means in presence of light, i.e., during day time) the LED will not glow, and when the torch goes far to LDR (Absence of light, i.e., during night time) the LED start glowing.
+and as the day light dims in the evening the light automatically turned on. This happens because when torch comes close to LDR ( means in presence of light ) the LED will not glow, and when the torch goes far to LDR (Absence of light ) the LED start glowing.
 The process of torch coming near to LDR and then going back can be realated to the day and night time.
  
    Light OFF State
